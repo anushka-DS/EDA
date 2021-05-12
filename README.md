@@ -17,5 +17,7 @@ Data scientists can use exploratory analysis to ensure the results they produce 
 ## Useful References
 
 https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
+
 https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/
