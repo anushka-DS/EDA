@@ -14,7 +14,7 @@ The main purpose of EDA is to help look at data before making any assumptions. I
 Data scientists can use exploratory analysis to ensure the results they produce are valid and applicable to any desired business outcomes and goals. EDA also helps stakeholders by confirming they are asking the right questions. EDA can help answer questions about standard deviations, categorical variables, and confidence intervals. Once EDA is complete and insights are drawn, its features can then be used for more sophisticated data analysis or modeling, including machine learning.
 
 
-**Useful References**
+## Useful References
 
 https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
