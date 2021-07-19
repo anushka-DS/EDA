@@ -18,6 +18,20 @@ Data scientists can use exploratory analysis to ensure the results they produce 
 
 https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 
+https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
+
+https://medium.com/code-heroku/introduction-to-exploratory-data-analysis-eda-c0257f888676
+
+https://medium.com/swlh/introduction-to-exploratory-data-analysis-eda-d83424e47151
+
+https://medium.com/odscjournal/beginners-guide-to-exploratory-data-analysis-eda-371bcdb4a002
+
+https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7
+
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
 
+https://medium.com/analytics-vidhya/a-beginners-guide-to-exploratory-data-analysis-eda-c96b780f744d
+
 https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/
+
+https://medium.com/spatial-data-science/4-tools-to-speed-up-exploratory-data-analysis-eda-in-python-e240ebcd18de
